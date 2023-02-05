@@ -142,7 +142,7 @@ rowNumber,predictedValues
 140,No Failure
 141,No Failure
 142,No Failure
-143,No Failure
+143,Tool Wear Failure
 144,No Failure
 145,No Failure
 146,No Failure
@@ -184,10 +184,10 @@ rowNumber,predictedValues
 182,No Failure
 183,Random Failures
 184,No Failure
-185,Overstrain Failure
+185,No Failure
 186,No Failure
 187,No Failure
-188,Tool Wear Failure
+188,No Failure
 189,No Failure
 190,No Failure
 191,No Failure
@@ -259,7 +259,7 @@ rowNumber,predictedValues
 257,No Failure
 258,No Failure
 259,No Failure
-260,Power Failure
+260,Overstrain Failure
 261,No Failure
 262,No Failure
 263,No Failure
@@ -272,7 +272,7 @@ rowNumber,predictedValues
 270,No Failure
 271,No Failure
 272,No Failure
-273,Tool Wear Failure
+273,No Failure
 274,No Failure
 275,No Failure
 276,No Failure
@@ -324,7 +324,7 @@ rowNumber,predictedValues
 322,No Failure
 323,No Failure
 324,No Failure
-325,Tool Wear Failure
+325,Random Failures
 326,No Failure
 327,No Failure
 328,No Failure
@@ -405,7 +405,7 @@ rowNumber,predictedValues
 403,No Failure
 404,No Failure
 405,No Failure
-406,Random Failures
+406,No Failure
 407,No Failure
 408,No Failure
 409,No Failure
@@ -437,7 +437,7 @@ rowNumber,predictedValues
 435,No Failure
 436,No Failure
 437,No Failure
-438,Random Failures
+438,No Failure
 439,No Failure
 440,No Failure
 441,No Failure
@@ -547,7 +547,7 @@ rowNumber,predictedValues
 545,No Failure
 546,No Failure
 547,No Failure
-548,No Failure
+548,Random Failures
 549,No Failure
 550,No Failure
 551,No Failure
@@ -599,7 +599,7 @@ rowNumber,predictedValues
 597,No Failure
 598,No Failure
 599,No Failure
-600,Tool Wear Failure
+600,No Failure
 601,No Failure
 602,No Failure
 603,No Failure
@@ -612,7 +612,7 @@ rowNumber,predictedValues
 610,No Failure
 611,No Failure
 612,Tool Wear Failure
-613,Heat Dissipation Failure
+613,Random Failures
 614,No Failure
 615,No Failure
 616,No Failure
@@ -750,7 +750,7 @@ rowNumber,predictedValues
 748,No Failure
 749,No Failure
 750,No Failure
-751,Random Failures
+751,No Failure
 752,No Failure
 753,No Failure
 754,No Failure
@@ -786,7 +786,7 @@ rowNumber,predictedValues
 784,No Failure
 785,No Failure
 786,No Failure
-787,No Failure
+787,Overstrain Failure
 788,No Failure
 789,No Failure
 790,No Failure
@@ -836,11 +836,11 @@ rowNumber,predictedValues
 834,No Failure
 835,No Failure
 836,No Failure
-837,Heat Dissipation Failure
-838,No Failure
+837,Random Failures
+838,Tool Wear Failure
 839,No Failure
 840,No Failure
-841,Random Failures
+841,No Failure
 842,No Failure
 843,No Failure
 844,No Failure
@@ -871,7 +871,7 @@ rowNumber,predictedValues
 869,No Failure
 870,No Failure
 871,No Failure
-872,Power Failure
+872,No Failure
 873,No Failure
 874,No Failure
 875,No Failure
@@ -895,7 +895,7 @@ rowNumber,predictedValues
 893,No Failure
 894,No Failure
 895,No Failure
-896,Random Failures
+896,Tool Wear Failure
 897,No Failure
 898,No Failure
 899,No Failure
@@ -1047,7 +1047,7 @@ rowNumber,predictedValues
 1045,No Failure
 1046,No Failure
 1047,No Failure
-1048,Tool Wear Failure
+1048,No Failure
 1049,No Failure
 1050,No Failure
 1051,No Failure
@@ -1098,7 +1098,7 @@ rowNumber,predictedValues
 1096,Heat Dissipation Failure
 1097,No Failure
 1098,No Failure
-1099,No Failure
+1099,Tool Wear Failure
 1100,No Failure
 1101,No Failure
 1102,No Failure
@@ -1108,7 +1108,7 @@ rowNumber,predictedValues
 1106,No Failure
 1107,No Failure
 1108,No Failure
-1109,Overstrain Failure
+1109,No Failure
 1110,No Failure
 1111,No Failure
 1112,No Failure
@@ -1169,7 +1169,7 @@ rowNumber,predictedValues
 1167,No Failure
 1168,No Failure
 1169,No Failure
-1170,Power Failure
+1170,Overstrain Failure
 1171,No Failure
 1172,No Failure
 1173,No Failure
@@ -1277,7 +1277,7 @@ rowNumber,predictedValues
 1275,No Failure
 1276,No Failure
 1277,No Failure
-1278,Tool Wear Failure
+1278,Overstrain Failure
 1279,No Failure
 1280,No Failure
 1281,No Failure
@@ -1286,7 +1286,7 @@ rowNumber,predictedValues
 1284,No Failure
 1285,No Failure
 1286,No Failure
-1287,Random Failures
+1287,No Failure
 1288,No Failure
 1289,No Failure
 1290,No Failure
@@ -1341,7 +1341,7 @@ rowNumber,predictedValues
 1339,No Failure
 1340,No Failure
 1341,No Failure
-1342,Heat Dissipation Failure
+1342,Tool Wear Failure
 1343,No Failure
 1344,No Failure
 1345,No Failure
@@ -1404,7 +1404,7 @@ rowNumber,predictedValues
 1402,No Failure
 1403,No Failure
 1404,No Failure
-1405,Tool Wear Failure
+1405,Random Failures
 1406,No Failure
 1407,No Failure
 1408,No Failure
@@ -1436,7 +1436,7 @@ rowNumber,predictedValues
 1434,No Failure
 1435,No Failure
 1436,No Failure
-1437,Heat Dissipation Failure
+1437,Power Failure
 1438,No Failure
 1439,No Failure
 1440,No Failure
@@ -1548,7 +1548,7 @@ rowNumber,predictedValues
 1546,No Failure
 1547,No Failure
 1548,No Failure
-1549,No Failure
+1549,Random Failures
 1550,No Failure
 1551,No Failure
 1552,No Failure
@@ -1583,7 +1583,7 @@ rowNumber,predictedValues
 1581,No Failure
 1582,No Failure
 1583,No Failure
-1584,No Failure
+1584,Random Failures
 1585,No Failure
 1586,No Failure
 1587,No Failure
@@ -1593,7 +1593,7 @@ rowNumber,predictedValues
 1591,Power Failure
 1592,No Failure
 1593,No Failure
-1594,Random Failures
+1594,No Failure
 1595,No Failure
 1596,No Failure
 1597,No Failure
@@ -1783,7 +1783,7 @@ rowNumber,predictedValues
 1781,No Failure
 1782,No Failure
 1783,No Failure
-1784,Random Failures
+1784,Tool Wear Failure
 1785,No Failure
 1786,No Failure
 1787,No Failure
@@ -1797,7 +1797,7 @@ rowNumber,predictedValues
 1795,No Failure
 1796,No Failure
 1797,No Failure
-1798,No Failure
+1798,Overstrain Failure
 1799,No Failure
 1800,No Failure
 1801,No Failure
@@ -1919,7 +1919,7 @@ rowNumber,predictedValues
 1917,No Failure
 1918,No Failure
 1919,No Failure
-1920,No Failure
+1920,Random Failures
 1921,No Failure
 1922,No Failure
 1923,No Failure
@@ -1941,7 +1941,7 @@ rowNumber,predictedValues
 1939,No Failure
 1940,No Failure
 1941,No Failure
-1942,Tool Wear Failure
+1942,No Failure
 1943,No Failure
 1944,No Failure
 1945,No Failure
@@ -2096,7 +2096,7 @@ rowNumber,predictedValues
 2094,No Failure
 2095,No Failure
 2096,No Failure
-2097,Tool Wear Failure
+2097,No Failure
 2098,No Failure
 2099,No Failure
 2100,No Failure
@@ -2178,7 +2178,7 @@ rowNumber,predictedValues
 2176,No Failure
 2177,No Failure
 2178,No Failure
-2179,Random Failures
+2179,No Failure
 2180,No Failure
 2181,No Failure
 2182,Tool Wear Failure
@@ -2236,11 +2236,11 @@ rowNumber,predictedValues
 2234,No Failure
 2235,No Failure
 2236,No Failure
-2237,No Failure
+2237,Random Failures
 2238,No Failure
 2239,No Failure
 2240,No Failure
-2241,Overstrain Failure
+2241,Power Failure
 2242,No Failure
 2243,No Failure
 2244,No Failure
@@ -2259,7 +2259,7 @@ rowNumber,predictedValues
 2257,No Failure
 2258,Tool Wear Failure
 2259,No Failure
-2260,Heat Dissipation Failure
+2260,No Failure
 2261,No Failure
 2262,No Failure
 2263,No Failure
@@ -2275,7 +2275,7 @@ rowNumber,predictedValues
 2273,No Failure
 2274,No Failure
 2275,No Failure
-2276,Power Failure
+2276,Random Failures
 2277,No Failure
 2278,No Failure
 2279,No Failure
@@ -2399,7 +2399,7 @@ rowNumber,predictedValues
 2397,No Failure
 2398,No Failure
 2399,No Failure
-2400,No Failure
+2400,Random Failures
 2401,No Failure
 2402,No Failure
 2403,No Failure
@@ -2493,7 +2493,7 @@ rowNumber,predictedValues
 2491,No Failure
 2492,No Failure
 2493,No Failure
-2494,No Failure
+2494,Heat Dissipation Failure
 2495,No Failure
 2496,No Failure
 2497,No Failure
@@ -2577,7 +2577,7 @@ rowNumber,predictedValues
 2575,No Failure
 2576,No Failure
 2577,No Failure
-2578,Heat Dissipation Failure
+2578,Overstrain Failure
 2579,No Failure
 2580,No Failure
 2581,No Failure
@@ -2627,7 +2627,7 @@ rowNumber,predictedValues
 2625,No Failure
 2626,No Failure
 2627,No Failure
-2628,Overstrain Failure
+2628,Random Failures
 2629,No Failure
 2630,No Failure
 2631,No Failure
@@ -2685,7 +2685,7 @@ rowNumber,predictedValues
 2683,Power Failure
 2684,No Failure
 2685,No Failure
-2686,No Failure
+2686,Tool Wear Failure
 2687,No Failure
 2688,No Failure
 2689,Tool Wear Failure
@@ -2706,7 +2706,7 @@ rowNumber,predictedValues
 2704,No Failure
 2705,No Failure
 2706,No Failure
-2707,Power Failure
+2707,Random Failures
 2708,No Failure
 2709,No Failure
 2710,No Failure
@@ -2856,7 +2856,7 @@ rowNumber,predictedValues
 2854,No Failure
 2855,No Failure
 2856,No Failure
-2857,Power Failure
+2857,Heat Dissipation Failure
 2858,No Failure
 2859,No Failure
 2860,No Failure
@@ -3049,13 +3049,13 @@ rowNumber,predictedValues
 3047,No Failure
 3048,No Failure
 3049,No Failure
-3050,Power Failure
+3050,Heat Dissipation Failure
 3051,No Failure
 3052,No Failure
 3053,No Failure
 3054,No Failure
 3055,No Failure
-3056,Tool Wear Failure
+3056,No Failure
 3057,No Failure
 3058,No Failure
 3059,No Failure
@@ -3226,7 +3226,7 @@ rowNumber,predictedValues
 3224,Heat Dissipation Failure
 3225,Heat Dissipation Failure
 3226,Heat Dissipation Failure
-3227,No Failure
+3227,Heat Dissipation Failure
 3228,No Failure
 3229,Heat Dissipation Failure
 3230,Heat Dissipation Failure
@@ -3237,10 +3237,10 @@ rowNumber,predictedValues
 3235,Heat Dissipation Failure
 3236,Heat Dissipation Failure
 3237,Heat Dissipation Failure
-3238,No Failure
+3238,Power Failure
 3239,Heat Dissipation Failure
 3240,Heat Dissipation Failure
-3241,No Failure
+3241,Heat Dissipation Failure
 3242,Heat Dissipation Failure
 3243,Heat Dissipation Failure
 3244,Heat Dissipation Failure
@@ -3251,7 +3251,7 @@ rowNumber,predictedValues
 3249,Heat Dissipation Failure
 3250,Heat Dissipation Failure
 3251,Heat Dissipation Failure
-3252,No Failure
+3252,Heat Dissipation Failure
 3253,Heat Dissipation Failure
 3254,Power Failure
 3255,No Failure
@@ -3293,7 +3293,7 @@ rowNumber,predictedValues
 3291,Overstrain Failure
 3292,No Failure
 3293,Overstrain Failure
-3294,Overstrain Failure
+3294,Power Failure
 3295,Overstrain Failure
 3296,Overstrain Failure
 3297,No Failure
